@@ -1,12 +1,11 @@
 {
   "_args": [
     [
-      "@capacitor/push-notifications@5.0.6",
-      "/Users/yigitserin/Projects/elika-kadin-ionic-app"
+      "@capacitor/push-notifications@6.0.0"
     ]
   ],
-  "_from": "@capacitor/push-notifications@5.0.6",
-  "_id": "@capacitor/push-notifications@5.0.6",
+  "_from": "@capacitor/push-notifications@6.0.0",
+  "_id": "@capacitor/push-notifications@6.0.0",
   "_inBundle": false,
   "_integrity": "sha512-o4/EcP13XduazhJkoVWEVrRD07YcqT9Uz0pQ48SItRNjtgDhcQW1vAEo6tSL6FVA5NkxNhJikk8TUeXobgOhEg==",
   "_location": "/@capacitor/push-notifications",
@@ -14,19 +13,19 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "@capacitor/push-notifications@5.0.6",
+    "raw": "@capacitor/push-notifications@6.0.0",
     "name": "@capacitor/push-notifications",
     "escapedName": "@capacitor%2fpush-notifications",
     "scope": "@capacitor",
-    "rawSpec": "5.0.6",
+    "rawSpec": "6.0.0",
     "saveSpec": null,
-    "fetchSpec": "5.0.6"
+    "fetchSpec": "6.0.0"
   },
   "_requiredBy": [
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/@capacitor/push-notifications/-/push-notifications-5.0.6.tgz",
-  "_spec": "5.0.6",
+  "_spec": "6.0.0",
   "_where": "/Users/yigitserin/Projects/elika-kadin-ionic-app",
   "author": {
     "name": "Ionic",
@@ -112,5 +111,5 @@
   "swiftlint": "@ionic/swiftlint-config",
   "types": "dist/esm/index.d.ts",
   "unpkg": "dist/plugin.js",
-  "version": "5.0.6"
+  "version": "6.0.0"
 }
